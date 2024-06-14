@@ -1,3 +1,4 @@
 {
-    "react-client-enabled": true
+    "react-client-enabled": true,
+    "test": false
 }
