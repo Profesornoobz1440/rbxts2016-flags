@@ -1,4 +1,6 @@
 {
     "react-client-enabled": true,
-    "test": false
+    "test": false,
+
+    "avatarExperienceEnabled": false
 }
