@@ -2,5 +2,5 @@
     "react-client-enabled": true,
     "test": false,
 
-    "avatarExperienceEnabled": false
+    "avatarExperienceEnabled": true
 }
